@@ -1,6 +1,6 @@
 {
-  "version": "2.6.0",
-  "build": "2026.09.16",
-  "download_url": "https://github.com/thanhlong3R/tiktok-master-update/releases/download/v2.6.0/TiktokMaster_Setup.exe",
-  "changelog": "• Cập nhật phiên bản v2.6.0 mới nhất\n• Tối ưu bộ module xử lý video & audio (modun1)\n• Fix lỗi hiển thị biểu tượng giao diện và đóng gói"
+  "version": "2.7.0",
+  "build": "2026.09.18",
+  "download_url": "https://github.com/thanhlong3R/tiktok-master-update/releases/download/v2.7.0/TiktokMaster_Setup.exe",
+  "changelog": "• Cập nhật phiên bản v2.7.0 chính thức.\n• Bổ sung Công cụ 4: Bộ Tiện Ích Trợ Giúp (Tạo thư mục, Gom media, Convert, Đổi tốc độ).\n• Tối ưu hệ thống đăng nhập & ghi log Supabase Cloud."
 }
